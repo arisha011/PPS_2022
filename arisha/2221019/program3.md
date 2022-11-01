@@ -1,4 +1,4 @@
-Program 3 : Write a program to add two numbers.
+### Program 3 : Write a program to add two numbers.
 ```
 #include   <stdio.h>
 int main()
@@ -11,4 +11,4 @@ printf("%d", z);
 return 0;
 }
 
-output:30 
+**output:30**
