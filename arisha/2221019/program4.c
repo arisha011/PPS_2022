@@ -1,5 +1,5 @@
-### program : write a program to show the greater number 
-```
+ program : write a program to show the greater number 
+ ```
 # include <stdio.h>
   int main()
 {
