@@ -1,5 +1,5 @@
 ## Program5: Write a program using conditional operators 
-
+```
 # include <stdio.h>
 int main()
 { 
