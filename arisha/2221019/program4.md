@@ -1,4 +1,4 @@
- program : write a program to show the greater number 
+ ### Program 4 : Write a program to show the greater number. 
  ```
 # include <stdio.h>
   int main()
@@ -15,6 +15,7 @@
 return 0;
 }
 
-output: c is greater 
+**output : c is greater**
+
 
 
