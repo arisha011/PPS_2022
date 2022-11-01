@@ -1,4 +1,4 @@
-## program1: create a program to print hello world 
+## program1: create a program to print hello world.
 ```
 #include <studio.h>
 int main()
