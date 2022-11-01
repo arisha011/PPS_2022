@@ -1,4 +1,4 @@
-program2 : create a program to show  roll no and username 
+program2 : create a program to show  roll no and username.
 
 #include <stdio.h>
 int main()
