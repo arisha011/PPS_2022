@@ -1,4 +1,4 @@
-## Program 7 : write a program using while loop.
+## Program 7 : Write a program using while loop.
 ```  
 #include <stdio.h>
 int main()
@@ -11,3 +11,5 @@ i++;
 return 0;
 }
 ```
+output : 
+456789
