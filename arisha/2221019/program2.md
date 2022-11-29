@@ -1,5 +1,5 @@
-program2 : create a program to show  roll no and username.
-
+## Program 2 : Create a program to show  roll no and username.
+```
 #include <stdio.h>
 int main()
 {
@@ -11,5 +11,6 @@ printf("roll no______");
 scanf("%d ",&r);
 return 0 ;
 } 
-output : username_______
+```
+**Output** : username_______
 roll no___________
