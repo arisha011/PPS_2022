@@ -1,4 +1,5 @@
-program 8: Write a program using do while.
+## Program 8: Write a program using do while.
+```
 include <stdio.h>
 int main()
 {
@@ -10,5 +11,7 @@ a++;
 }
 while(a<10);
 }
-output
+```
+
+**output:**
 0123456789
