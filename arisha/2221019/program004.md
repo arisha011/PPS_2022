@@ -14,8 +14,9 @@
   printf("c is greater");
 return 0;
 }
-
-**output : c is greater**
+```
+**output**
+c is greater
 
 
 
