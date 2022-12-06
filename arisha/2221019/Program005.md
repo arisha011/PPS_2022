@@ -1,4 +1,4 @@
-## Program5: Write a program using conditional operators 
+## Program 5: Write a program using conditional operators 
 ```
 # include <stdio.h>
 int main()
@@ -10,5 +10,6 @@ int main()
 }
  
 output : 1000
+
   
 
