@@ -12,5 +12,8 @@ scanf("%d ",&r);
 return 0 ;
 } 
 ```
-**Output** : username_______
-roll no___________
+**Output** 
+```
+username _______
+roll no______
+```
