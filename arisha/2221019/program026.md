@@ -11,5 +11,5 @@ return 0;
 ```
 **Output**
 ```
-True
+1
 ```
